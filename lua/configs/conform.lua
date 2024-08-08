@@ -4,6 +4,7 @@ local options = {
     python = { "black", "ruff" },
     css = { "prettier" },
     html = { "djlint", "prettier" },
+    jinja = { "djlint" },
     javascript = { "prettier" },
     javascriptreact = { "prettier" },
     typescript = { "prettier" },

@@ -12,6 +12,7 @@ local options = {
     "goimports",
     "gofumpt",
     "gopls",
+    "djlint",
   },
 }
 

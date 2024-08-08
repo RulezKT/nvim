@@ -1,4 +1,5 @@
 require("lint").linters_by_ft = {
+  html = { "djlint" },
   css = { "stylelint" },
   javascript = { "eslint_d" },
   javascriptreact = { "eslint_d" },

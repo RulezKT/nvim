@@ -6,7 +6,7 @@ local options = {
     "html-lsp",
     "css-lsp",
     "typescript-language-server",
-    "pyright",
+    "basedpyright",
     "black",
     "ruff",
     "goimports",

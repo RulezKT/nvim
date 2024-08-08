@@ -1,5 +1,5 @@
 require("lint").linters_by_ft = {
-  html = { "djlint" },
+  html = { "eslint_d" },
   css = { "stylelint" },
   javascript = { "eslint_d" },
   javascriptreact = { "eslint_d" },
@@ -7,5 +7,4 @@ require("lint").linters_by_ft = {
   typescriptreact = { "eslint_d" },
   python = { "ruff" },
   go = { "gofumpt" },
-  jinja = { "djlint" },
 }
